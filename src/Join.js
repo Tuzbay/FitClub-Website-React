@@ -14,6 +14,8 @@ function Join() {
           }, (error) => {
               console.log(error.text);
           });
+
+          
       };
   return (
     <div className='join' id='join'>

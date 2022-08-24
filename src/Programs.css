@@ -3,11 +3,12 @@
     flex-direction: column;
     gap: 2rem;
     padding: 0 2rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .programs-header {
     display: flex;
-    gap: 5rem;
+    gap: 1rem;
     font-weight: bold;
     font-size: 3rem;
     justify-content: center;
