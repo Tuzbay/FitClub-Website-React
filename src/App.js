@@ -5,6 +5,7 @@ import Reasons from "./Reasons"
 import Plans from "./Plans"
 import Testimonial from "./Testimonials"
 import Join from "./Join"
+import Footer from "./Footer"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
     <Plans />
     <Testimonial />
     <Join />
+    <Footer />
     </div>
   );
 }
